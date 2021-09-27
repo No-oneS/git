@@ -6,3 +6,9 @@ eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 ffff
 ggggggggg
 hhhhhhhhhhhhhhhhh
+
+
+
+
+
+alter c.txt
