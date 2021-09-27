@@ -1,7 +1,0 @@
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbb
-cccccccccc
-
-
-
-alter a.txt
