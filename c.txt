@@ -1,0 +1,14 @@
+aaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbb
+ccccccccccccccccccccccccccccccccc
+dddddddddddddddddddddddddddddddddddddddddddd
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ffff
+ggggggggg
+hhhhhhhhhhhhhhhhh
+
+
+
+
+
+alter c.txt
